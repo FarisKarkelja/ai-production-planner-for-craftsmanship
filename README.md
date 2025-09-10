@@ -1,6 +1,4 @@
-# Craftify
-
-# AI-Powered Production Planner for Craftsmanship
+# Craftify: AI-Powered Production Planner for Craftsmanship
 
 ## Table of Contents
 

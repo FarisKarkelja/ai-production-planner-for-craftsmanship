@@ -13,7 +13,7 @@
 
 ## Description
 
-Welcome to my project! This is **Craftify**, an AI-Powered Production Planner designed for craftsmen, artists, and small-scale manufacturers. This project focuses on **UI/UX design** to demonstrate how a production planner can streamline order management, scheduling, inventory tracking, and client communication. All interactions, dashboards, and workflows are designed as **interactive prototypes and wireframes** to visualize efficient production processes without actual coding.  
+Welcome! This is **Craftify**, an AI-Powered Production Planner designed for craftsmen, artists, and small-scale manufacturers. This project focuses on **UI/UX design** to demonstrate how a production planner can streamline order management, scheduling, inventory tracking, and client communication. All interactions, dashboards, and workflows are designed as **interactive prototypes and wireframes** to visualize efficient production processes without actual coding.  
 
 ## Design Tools Used
 
